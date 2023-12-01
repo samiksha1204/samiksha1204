@@ -25,9 +25,6 @@
 
 
 
-
-###
-
 <div align="left">
   <h2>Languages  <img height="80" src="https://media.giphy.com/media/pv8hybpYzhkl1I5Y4Z/giphy.gif"/></h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
@@ -72,7 +69,7 @@
 
 ![Samiksha GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiksha1204&theme=vue&show_icons=true)</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiksha1204" />
-<h2>My Stats <img height="50" src="https://media.giphy.com/media/xZn6QSIyPKNpaTbGa2/giphy.gif"/>
+<h2>My Most used Languages<img height="50" src="https://media.giphy.com/media/xZn6QSIyPKNpaTbGa2/giphy.gif"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha1204&theme=vue&show_icons=true)</h2>
 
