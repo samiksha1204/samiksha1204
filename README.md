@@ -76,6 +76,6 @@
 <p>Feel free to reach out for front-end development collaborations, project inquiries, or just to discuss the latest trends in web development. Let's build beautiful and impactful web experiences together! <img height="50" src="https://media.giphy.com/media/6cfHDQ4NeBk2EltWCs/giphy.gif"/></p>
 
 # Github Contributions
-![snake gif](https://github.com/samiksha1204/samiksha1204/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/samiksha1204/samiksha1204/blob/output/github-contribution-grid-snake2.svg)
   
 
