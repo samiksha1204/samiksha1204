@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samiksha%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Packaged%20App%20Dev%20Associate%20%40%20Accenture%20%7C%20SAP%20%7C%20AI%20Explorer&descAlignY=65&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samiksha%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Packaged%20App%20Dev%20Associate%20%40%20Accenture%20%7C%20SAP%20S%2F4HANA%20%7C%20ABAP%20%7C%20AI&descAlignY=65&descSize=17"/>
 
 <p align="center">
   <a href="https://samikshaportfolio-sand.vercel.app/" target="_blank">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=SAP+S%2F4HANA+Developer+%40+Accenture;Dual+SAP+Certified+%E2%80%94+C_AIG+%2B+C_SIGPM;AI+%26+LLM+Explorer+%7C+Claude+API+Enthusiast;Building+at+the+intersection+of+SAP+%26+AI"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=SAP+S%2F4HANA+Developer+%40+Accenture;SAP+ABAP+%7C+Enterprise+Architecture+%7C+Process+Design;Dual+SAP+Certified+%E2%80%94+C_AIG+%2B+C_SIGPM;Exploring+SAP+Business+AI+%26+Intelligent+Automation"/>
 </p>
 
 <br/>
@@ -22,15 +22,11 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/U1sgOjNqsrIqFWc4mj/giphy.gif"/>
-
 I'm a **Packaged App Development Associate** at **Accenture**, working on large-scale SAP S/4HANA transformations. My day-to-day spans end-to-end business scenario design, ABAP development, Adobe Forms, and cross-module alignment — sitting right at the intersection of business thinking and technical delivery.
 
-I hold dual SAP certifications in **Generative AI Development (C_AIG)** and **Process Management (C_SIGPM)**, and take pride in translating complex requirements into well-structured technical solutions.
+I hold dual SAP certifications in **Generative AI Development (C_AIG)** and **Process Management (C_SIGPM)**, and take pride in translating complex business requirements into precise, well-structured technical solutions.
 
-Outside work, I experiment with LLMs and the Claude API — exploring how intelligent automation can solve real enterprise problems.
-
-<br clear="right"/>
+Outside work, I explore SAP Business AI and intelligent automation — understanding how LLM-powered tools can augment enterprise SAP workflows.
 
 ---
 
@@ -95,49 +91,6 @@ Outside work, I experiment with LLMs and the Claude API — exploring how intell
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-**Languages, Frameworks & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,tailwind,figma,git,azure&perline=11"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Stack</th>
-  </tr>
-  <tr>
-    <td><strong>WanderVista</strong></td>
-    <td>Travel discovery app — destination guides, curated packages &amp; personalised recommendations. Designed in Figma first, then built end-to-end.</td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Code Block</strong></td>
-    <td>In-browser live code editor — write HTML, CSS &amp; JS in split panes and preview the output in real time. Export as file or full HTML page.</td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DeliciousBites</strong></td>
-    <td>Food delivery app with search, add-to-cart flow, and login/signup — focused on smooth interactions and responsive design.</td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -161,20 +114,6 @@ Outside work, I experiment with LLMs and the Claude API — exploring how intell
 |--------|------------|------|
 | Master of Computer Applications (MCA) | Vellore Institute of Technology, Vellore | 2021 – 2023 |
 | Bachelor of Computer Applications (BCA) | MATS University, Raipur | 2018 – 2021 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samiksha1204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha1204&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiksha1204&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
