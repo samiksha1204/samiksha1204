@@ -34,27 +34,11 @@ Dual SAP certified in **Generative AI Development (C_AIG)** and **Process Manage
 
 ## 🛠️ Skills
 
-<p>
-  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Forms-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20Signavio-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20GenAI-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Enterprise%20Architecture-475569?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Process%20Design-475569?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Oracle-475569?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-475569?style=flat-square"/>
-</p>
+**SAP** &nbsp;·&nbsp; S/4HANA &nbsp;·&nbsp; ABAP &nbsp;·&nbsp; BTP &nbsp;·&nbsp; Fiori &nbsp;·&nbsp; Adobe Forms &nbsp;·&nbsp; Signavio &nbsp;·&nbsp; GenAI
 
----
+**Architecture** &nbsp;·&nbsp; End-to-End Process Design &nbsp;·&nbsp; Enterprise Architecture &nbsp;·&nbsp; Cross-Module Integration
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiksha1204&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+**Database** &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; PL/SQL
 
 ---
 
