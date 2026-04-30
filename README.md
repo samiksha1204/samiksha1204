@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samiksha%20Sharma&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=42&desc=SAP%20S%2F4HANA%20%7C%20ABAP%20%7C%20Enterprise%20Architecture%20%7C%20AI&descAlignY=65&descSize=16"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=SAP+S%2F4HANA+%26+ABAP+Developer;End-to-End+Process+Design+%7C+Cross-Module+Integration;Dual+SAP+Certified+%E2%80%94+C_AIG+%2B+C_SIGPM;Exploring+SAP+Business+AI+%26+Intelligent+Automation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=SAP%20S%2F4HANA%20%26%20ABAP%20Developer;End-to-End%20Process%20Design%20%7C%20Cross-Module%20Integration;Dual%20SAP%20Certified%20%E2%80%94%20C_AIG%20%2B%20C_SIGPM;Exploring%20SAP%20Business%20AI%20%26%20Intelligent%20Automation"/>
 </p>
 
-<h3 align="center">SAP S/4HANA Developer &nbsp;|&nbsp; Certified in GenAI &amp; Process Management</h3>
+<h3 align="center">SAP S/4HANA Developer  |  Certified in GenAI & Process Management</h3>
 
 ---
 
@@ -12,16 +12,14 @@
 
 I design and build SAP S/4HANA enterprise solutions — spanning end-to-end process architecture, ABAP development, Adobe Forms, and cross-module integration. I work at the intersection of business thinking and technical delivery, translating complex requirements into precise, well-structured SAP solutions.
 
-🔭 Currently exploring: SAP Business AI & LLM integration in enterprise workflows.
+🔭 Currently exploring: SAP Business AI & LLM integration in enterprise workflows
 
 ---
 
 ## 🛠️ Skills
 
 **SAP** &nbsp;·&nbsp; S/4HANA &nbsp;·&nbsp; ABAP &nbsp;·&nbsp; BTP &nbsp;·&nbsp; Fiori &nbsp;·&nbsp; Adobe Forms &nbsp;·&nbsp; Signavio &nbsp;·&nbsp; GenAI
-
 **Architecture** &nbsp;·&nbsp; End-to-End Process Design &nbsp;·&nbsp; Enterprise Architecture &nbsp;·&nbsp; Cross-Module Integration
-
 **Database** &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; PL/SQL
 
 ---
@@ -39,7 +37,7 @@ I design and build SAP S/4HANA enterprise solutions — spanning end-to-end proc
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50" align="center">
       <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="22"/>
     </td>
     <td>
