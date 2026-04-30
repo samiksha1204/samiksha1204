@@ -63,9 +63,6 @@ I design and build SAP S/4HANA enterprise solutions — spanning end-to-end proc
 ## ✉️ Connect
 
 <p>
-  <a href="mailto:ssamiksha271@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/samikshasharma-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
