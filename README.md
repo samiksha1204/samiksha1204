@@ -10,23 +10,11 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/f812c3a4-b727-4708-9f8c-a48a06e3c71e/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/✦%20SAP%20Certified-Generative%20AI%20Developer%20%7C%20C__AIG%20%7C%202026-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/4bb7be24-7ee1-49df-9bd9-637704824858/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/✦%20SAP%20Certified-Process%20Management%20%7C%20C__SIGPM%20%7C%202026-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## ⚡ About
 
 I design and build SAP S/4HANA enterprise solutions — spanning end-to-end process architecture, ABAP development, Adobe Forms, and cross-module integration. I work at the intersection of business thinking and technical delivery, translating complex requirements into precise, well-structured SAP solutions.
-
-Dual SAP certified in **Generative AI Development (C_AIG)** and **Process Management (C_SIGPM)** — 2026.
 
 🔭 Currently exploring: SAP Business AI & LLM integration in enterprise workflows.
 
@@ -39,6 +27,31 @@ Dual SAP certified in **Generative AI Development (C_AIG)** and **Process Manage
 **Architecture** &nbsp;·&nbsp; End-to-End Process Design &nbsp;·&nbsp; Enterprise Architecture &nbsp;·&nbsp; Cross-Module Integration
 
 **Database** &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; PL/SQL
+
+---
+
+## 🏆 Certifications
+
+<table>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="22"/>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/f812c3a4-b727-4708-9f8c-a48a06e3c71e/public_url" target="_blank"><strong>SAP Certified Generative AI Developer</strong></a> &nbsp; <code>C_AIG</code><br/>
+      <sub>Issued 2026 &nbsp;·&nbsp; SAP &nbsp;·&nbsp; Verify on Credly ↗</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" height="22"/>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/4bb7be24-7ee1-49df-9bd9-637704824858/public_url" target="_blank"><strong>SAP Certified Process Management Consultant</strong></a> &nbsp; <code>C_SIGPM</code><br/>
+      <sub>Issued 2026 &nbsp;·&nbsp; SAP &nbsp;·&nbsp; Verify on Credly ↗</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
