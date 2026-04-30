@@ -1,11 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samiksha%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Packaged%20App%20Dev%20Associate%20%40%20Accenture%20%7C%20SAP%20S%2F4HANA%20%7C%20ABAP%20%7C%20AI&descAlignY=65&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samiksha%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=42&desc=SAP%20S%2F4HANA%20Developer%20%7C%20ABAP%20%7C%20Enterprise%20Architecture%20%7C%20AI&descAlignY=65&descSize=17"/>
 
 <p align="center">
   <a href="https://samikshaportfolio-sand.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-samikshaportfolio--sand.vercel.app-0FAAFF?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=samiksha1204&label=Profile+Views&color=0e75b6&style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-India-brightgreen?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
@@ -13,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=SAP+S%2F4HANA+Developer+%40+Accenture;SAP+ABAP+%7C+Enterprise+Architecture+%7C+Process+Design;Dual+SAP+Certified+%E2%80%94+C_AIG+%2B+C_SIGPM;Exploring+SAP+Business+AI+%26+Intelligent+Automation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=SAP+S%2F4HANA+Developer;SAP+ABAP+%7C+Enterprise+Architecture+%7C+Process+Design;Dual+SAP+Certified+%E2%80%94+C_AIG+%2B+C_SIGPM;Exploring+SAP+Business+AI+%26+Intelligent+Automation"/>
 </p>
 
 <br/>
@@ -22,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Packaged App Development Associate** at **Accenture**, working on large-scale SAP S/4HANA transformations. My day-to-day spans end-to-end business scenario design, ABAP development, Adobe Forms, and cross-module alignment — sitting right at the intersection of business thinking and technical delivery.
+I'm a **Packaged App Development Associate** working on large-scale SAP S/4HANA transformations. My day-to-day spans end-to-end business scenario design, ABAP development, Adobe Forms, and cross-module alignment — sitting right at the intersection of business thinking and technical delivery.
 
 I hold dual SAP certifications in **Generative AI Development (C_AIG)** and **Process Management (C_SIGPM)**, and take pride in translating complex business requirements into precise, well-structured technical solutions.
 
@@ -54,7 +52,7 @@ Outside work, I explore SAP Business AI and intelligent automation — understan
       <img src="https://img.shields.io/badge/NOW-1abc9c?style=flat-square" />
     </td>
     <td>
-      <strong>Packaged App Development Associate</strong> &mdash; Accenture &nbsp;<em>(March 2024 – Present · India)</em><br/>
+      <strong>Packaged App Development Associate</strong> &nbsp;<em>(March 2024 – Present · India)</em><br/>
       <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
       <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
       <img src="https://img.shields.io/badge/Enterprise%20Architecture-334155?style=flat-square"/>
