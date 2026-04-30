@@ -6,13 +6,17 @@
 
 <br/>
 
+<h3 align="center">SAP S/4HANA Developer &nbsp;|&nbsp; Certified in GenAI &amp; Process Management</h3>
+
+<br/>
+
 <p align="center">
   <a href="https://www.credly.com/badges/f812c3a4-b727-4708-9f8c-a48a06e3c71e/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/✦%20SAP%20Certified-Generative%20AI%20Developer%20%7C%20C__AIG-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/✦%20SAP%20Certified-Generative%20AI%20Developer%20%7C%20C__AIG%20%7C%202026-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/4bb7be24-7ee1-49df-9bd9-637704824858/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/✦%20SAP%20Certified-Process%20Management%20%7C%20C__SIGPM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/✦%20SAP%20Certified-Process%20Management%20%7C%20C__SIGPM%20%7C%202026-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   </a>
 </p>
 
@@ -22,9 +26,35 @@
 
 I design and build SAP S/4HANA enterprise solutions — spanning end-to-end process architecture, ABAP development, Adobe Forms, and cross-module integration. I work at the intersection of business thinking and technical delivery, translating complex requirements into precise, well-structured SAP solutions.
 
-Dual SAP certified in **Generative AI Development (C_AIG)** and **Process Management (C_SIGPM)** — 2024.
+Dual SAP certified in **Generative AI Development (C_AIG)** and **Process Management (C_SIGPM)** — 2026.
 
-Outside of work, I explore SAP Business AI and intelligent automation: understanding how LLM-powered tools can meaningfully augment enterprise SAP workflows.
+🔭 Currently exploring: SAP Business AI & LLM integration in enterprise workflows.
+
+---
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Forms-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20Signavio-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20GenAI-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enterprise%20Architecture-475569?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Process%20Design-475569?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Oracle-475569?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-475569?style=flat-square"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiksha1204&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -46,8 +76,8 @@ Outside of work, I explore SAP Business AI and intelligent automation: understan
   <a href="https://www.linkedin.com/in/samikshasharma-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/ssamiksha271" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-475569?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://github.com/samiksha1204" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://samikshaportfolio-sand.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0FAAFF?style=for-the-badge&logo=vercel&logoColor=white"/>
