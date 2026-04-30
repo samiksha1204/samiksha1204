@@ -20,10 +20,6 @@
   <a href="https://samikshaportfolio-sand.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0FAAFF?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/India-📍-brightgreen?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-blueviolet?style=flat-square"/>
 </p>
 
 ---
@@ -36,31 +32,6 @@ Dual SAP certified in **Generative AI Development (C_AIG)** and **Process Manage
 
 Outside of work, I explore SAP Business AI and intelligent automation: understanding how LLM-powered tools can meaningfully augment enterprise SAP workflows.
 
-
-## ⚙️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20Signavio-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20AI%20Launchpad-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
----
-
-## 🔭 Currently Exploring
-
-> *How intelligent automation and LLMs can augment enterprise SAP workflows — from process intelligence to AI-assisted ABAP.*
-
-<p>
-  <img src="https://img.shields.io/badge/SAP%20Business%20AI-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Development-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-F97316?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI--Powered%20Automation-0ea5e9?style=flat-square"/>
-</p>
 
 ---
 
