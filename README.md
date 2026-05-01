@@ -47,17 +47,6 @@ I design and build SAP S/4HANA enterprise solutions — spanning end-to-end proc
   </tr>
 </table>
 
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| Master of Computer Applications (MCA) | Vellore Institute of Technology, Vellore | 2021 – 2023 |
-| Bachelor of Computer Applications (BCA) | MATS University, Raipur | 2018 – 2021 |
-
----
-
 ## ✉️ Connect
 
 <p>
