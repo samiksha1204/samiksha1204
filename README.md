@@ -53,10 +53,10 @@ I design and build SAP S/4HANA enterprise solutions — spanning end-to-end proc
   <a href="https://www.linkedin.com/in/samikshasharma-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/samiksha1204" target="_blank">
+  <a href="https://github.com/samikshasharma-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://samikshaportfolio-sand.vercel.app/" target="_blank">
+  <a href="https://samikshasharma-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0FAAFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
