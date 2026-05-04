@@ -86,8 +86,8 @@ module.exports = {
   social: {
     email:     "ssamiksha271@gmail.com",
     linkedin:  "samikshasharma-dev",
-    github:    "samiksha1204",
-    portfolio: "https://samikshaportfolio-sand.vercel.app/",
+    github:    "https://github.com/samikshasharma-dev",
+    portfolio: "https://samikshasharma-dev.vercel.app/",
   },
 
 };
